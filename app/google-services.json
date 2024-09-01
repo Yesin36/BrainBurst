@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289086972861",
+    "project_id": "brainburst-70891",
+    "storage_bucket": "brainburst-70891.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289086972861:android:a3c451b861fa828e6268d4",
+        "android_client_info": {
+          "package_name": "com.gogote.brainburst"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE5VWY2DYaS_aiN9I8TR9PXumVukqCT1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
